@@ -49,9 +49,3 @@ result/
 ## Contact
 
 For questions and collaborations, feel free to open an issue or contact us via email.
-
-Current code:
-
-https://github.com/BTRFusion/BTRFusion
-
-We will update as soon as possible.
