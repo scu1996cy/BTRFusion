@@ -20,22 +20,6 @@ Experiments are conducted on two anatomical-functional (PET-MRI and SPECT-MRI) m
 
 ---
 
-## Testing
-
-Before running the commands, please ensure that the dataset has been correctly placed.
-
-```bash
-python test.py
-```
-
-Results will be saved to:
-
-```text
-result/
-├── /
-```
-
----
 
 ## Correction
 
