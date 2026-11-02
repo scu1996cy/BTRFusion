@@ -79,4 +79,3 @@ If you find this work useful, please cite:
 
 [VoxelMorph](https://github.com/voxelmorph/voxelmorph)
 [TransMorph](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)
-
