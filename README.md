@@ -4,16 +4,6 @@ This is the official pytorch implementation of the paper 'BTRFusion: Misaligned 
 
 ---
 
-## Environment
-
-```bash
-Python >= 3.9
-PyTorch >= 2.0
-CUDA >= 11.8
-```
-
----
-
 ## Dataset
 
 Experiments are conducted on two anatomical-functional (PET-MRI and SPECT-MRI) medical image datasets from [Harvard Medical Dataset](http://www.med.harvard.edu/AANLIB/home.html).
