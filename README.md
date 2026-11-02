@@ -55,3 +55,28 @@ There is a minor numerical error in the reported FLOPs and parameter count in ou
 ## Contact
 
 If you have any questions, feel free to contact changyuan@stu.scu.edu.cn
+
+
+---
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@INPROCEEDINGS{11460786,
+  author    = {Chang, Yuan and Li, Zheng},
+  booktitle = {ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  title     = {BTRFusion: Misaligned Medical Image Fusion via Bidirectional Translation and Registration},
+  year      = {2026},
+  pages     = {6301--6305},
+  doi       = {10.1109/ICASSP55912.2026.11460786}
+}
+
+---
+
+## Reference and Acknowledgments
+
+[VoxelMorph](https://github.com/voxelmorph/voxelmorph)
+[TransMorph](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)
+
